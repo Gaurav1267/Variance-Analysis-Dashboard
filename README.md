@@ -3,13 +3,13 @@
 This repository contains a dynamic Variance Analysis Dashboard, to provide a clear and insightful comparison between budgeted and actual financial figures for income and expenses. The dashboard helps users quickly identify areas of financial overperformance or underperformance.
 
 ### 1. Budget vs. Actual Dashboard Overview (May Example)
-![Budget vs. Actual Dashboard]()
+![Budget vs. Actual Dashboard](Actual.png)
 
 ### 2. Actual Income & Expenses Data (Raw Data)
-![Actual Income & Expenses 2022]()
+![Actual Income & Expenses 2022](Budget.png)
 
 ### 3. Budgeted Income & Expenses Data (Monthly Breakdown)
-![Budgeted Income & Expenses 2022]()
+![Budgeted Income & Expenses 2022](model.png)
 
 
 ## Overview
